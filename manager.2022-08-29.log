@@ -1,0 +1,32 @@
+29-Aug-2022 22:18:34.372 INFO [http-nio-8001-exec-3] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+29-Aug-2022 22:18:34.372 INFO [http-nio-8001-exec-3] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Global resources are available
+29-Aug-2022 22:18:34.385 INFO [http-nio-8001-exec-3] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+29-Aug-2022 22:18:48.460 INFO [http-nio-8001-exec-4] org.apache.catalina.core.ApplicationContext.log HTMLManager: start: Starting web application '/tasks-backend'
+29-Aug-2022 22:19:06.823 INFO [http-nio-8001-exec-4] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+29-Aug-2022 22:21:47.636 INFO [http-nio-8001-exec-11] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+29-Aug-2022 22:21:47.636 INFO [http-nio-8001-exec-11] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+29-Aug-2022 22:21:47.637 INFO [http-nio-8001-exec-11] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+29-Aug-2022 22:21:47.645 INFO [http-nio-8001-exec-12] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+29-Aug-2022 22:21:47.649 INFO [http-nio-8001-exec-13] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/tasks-backend'
+29-Aug-2022 22:21:48.668 INFO [http-nio-8001-exec-12] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/tasks-backend'
+29-Aug-2022 22:21:48.669 INFO [http-nio-8001-exec-12] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\andre.correia\Desktop\cursos\curso jenkins\devops\apache-tomcat-8.5.50\webapps\tasks-backend.war
+29-Aug-2022 22:22:52.518 INFO [http-nio-8001-exec-16] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+29-Aug-2022 22:22:52.520 INFO [http-nio-8001-exec-17] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+29-Aug-2022 22:22:52.522 INFO [http-nio-8001-exec-18] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/tasks'
+29-Aug-2022 22:22:53.392 INFO [http-nio-8001-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/tasks'
+29-Aug-2022 22:22:53.393 INFO [http-nio-8001-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\andre.correia\Desktop\cursos\curso jenkins\devops\apache-tomcat-8.5.50\webapps\tasks.war
+29-Aug-2022 22:39:30.624 INFO [http-nio-8001-exec-22] org.apache.catalina.core.ApplicationContext.log HTMLManager: start: Starting web application '/tasks-backend'
+29-Aug-2022 22:39:55.105 INFO [http-nio-8001-exec-24] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+29-Aug-2022 22:40:06.947 INFO [http-nio-8001-exec-26] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+29-Aug-2022 22:50:03.729 INFO [http-nio-8001-exec-1] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+29-Aug-2022 22:50:03.730 INFO [http-nio-8001-exec-1] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Global resources are available
+29-Aug-2022 22:50:11.394 INFO [http-nio-8001-exec-2] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+29-Aug-2022 22:50:16.599 INFO [http-nio-8001-exec-2] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+29-Aug-2022 22:50:19.320 INFO [http-nio-8001-exec-3] org.apache.catalina.core.ApplicationContext.log HTMLManager: start: Starting web application '/tasks-backend'
+29-Aug-2022 22:50:36.757 INFO [http-nio-8001-exec-3] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+29-Aug-2022 22:54:32.837 INFO [http-nio-8001-exec-19] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+29-Aug-2022 23:02:55.894 INFO [http-nio-8001-exec-18] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+29-Aug-2022 23:52:16.001 INFO [http-nio-8001-exec-18] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+29-Aug-2022 23:56:33.709 INFO [http-nio-8001-exec-20] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+29-Aug-2022 23:56:36.625 INFO [http-nio-8001-exec-11] org.apache.catalina.core.ApplicationContext.log HTMLManager: restart: Reloading web application '/tasks-backend'
+29-Aug-2022 23:56:46.852 INFO [http-nio-8001-exec-11] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
